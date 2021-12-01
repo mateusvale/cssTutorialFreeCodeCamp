@@ -5,3 +5,11 @@ p + h2{
 ul > li{
     color: purple;
 }
+
+img[src*=".jpg"]{
+    border: 10px solid black;
+}
+
+h2[class~=article-subtitle]{
+    background: red;
+}
