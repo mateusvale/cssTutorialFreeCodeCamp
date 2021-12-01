@@ -1,11 +1,15 @@
 body{
-    background: #b3bac4;
+    background: linear-gradient(to bottom,#405bF1, #FFFFFF);
 }
 
 #title{
-    color: #405b80;
+    color: black;
 }
 
 .subtitle{
     color: #405bF1;
+}
+
+#service-image{
+    background: rgba(0, 0, 0, 0.95) ;
 }
