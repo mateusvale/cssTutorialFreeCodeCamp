@@ -1,15 +1,11 @@
-p + h2{
-    color: green;
+body{
+    background: #b3bac4;
 }
 
-ul > li{
-    color: purple;
+#title{
+    color: #405b80;
 }
 
-img[src*=".jpg"]{
-    border: 10px solid black;
-}
-
-h2[class~=article-subtitle]{
-    background: red;
+.subtitle{
+    color: #405bF1;
 }
