@@ -30,3 +30,19 @@ body{
 .para-text{
     display: inline;
 }
+
+.container{
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.container-item{
+    background: green;
+    color: white;
+    text-align: center;
+    width: 70px;
+    line-height: 50px;
+    margin: 10px;
+}
