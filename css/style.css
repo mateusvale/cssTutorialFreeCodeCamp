@@ -18,8 +18,15 @@ body{
 
 #about-us-image{
     height: 300px;
-    width: 60%;
+    width: 50%;
     border: 10px solid darkblue;
-    padding: 100px 80px;
-    margin: 20px;
+    float:right;
+}
+
+.site-table{
+    display: inline;
+}
+
+.para-text{
+    display: inline;
 }
